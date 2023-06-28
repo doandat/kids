@@ -1,0 +1,160 @@
+{
+    "data": [
+      {
+        "key": "a",
+        "sound": "a.mp3",
+        "image": "lower_a.png",
+        "imageUppercase": "upper_a.png"
+      },
+      {
+        "key": "b",
+        "sound": "b.mp3",
+        "image": "lower_b.png",
+        "imageUppercase": "upper_b.png"
+      },
+      {
+        "key": "c",
+        "sound": "c.mp3",
+        "image": "lower_c.png",
+        "imageUppercase": "upper_c.png"
+      },
+      {
+        "key": "d",
+        "sound": "d.mp3",
+        "image": "lower_d.png",
+        "imageUppercase": "upper_d.png"
+      },
+      {
+        "key": "e",
+        "sound": "e.mp3",
+        "image": "lower_e.png",
+        "imageUppercase": "upper_e.png"
+      },
+      {
+        "key": "f",
+        "sound": "f.mp3",
+        "image": "lower_f.png",
+        "imageUppercase": "upper_f.png"
+      },
+      {
+        "key": "g",
+        "sound": "g.mp3",
+        "image": "lower_g.png",
+        "imageUppercase": "upper_g.png"
+      },
+      {
+        "key": "h",
+        "sound": "h.mp3",
+        "image": "lower_h.png",
+        "imageUppercase": "upper_h.png"
+      },
+      {
+        "key": "i",
+        "sound": "i.mp3",
+        "image": "lower_i.png",
+        "imageUppercase": "upper_i.png"
+      },
+      {
+        "key": "j",
+        "sound": "j.mp3",
+        "image": "lower_j.png",
+        "imageUppercase": "upper_j.png"
+      },
+      {
+        "key": "k",
+        "sound": "k.mp3",
+        "image": "lower_k.png",
+        "imageUppercase": "upper_k.png"
+      },
+      {
+        "key": "l",
+        "sound": "l.mp3",
+        "image": "lower_l.png",
+        "imageUppercase": "upper_l.png"
+      },
+      {
+        "key": "m",
+        "sound": "m.mp3",
+        "image": "lower_m.png",
+        "imageUppercase": "upper_m.png"
+      },
+      {
+        "key": "n",
+        "sound": "n.mp3",
+        "image": "lower_n.png",
+        "imageUppercase": "upper_n.png"
+      },
+      {
+        "key": "o",
+        "sound": "o.mp3",
+        "image": "lower_o.png",
+        "imageUppercase": "upper_o.png"
+      },
+      {
+        "key": "p",
+        "sound": "p.mp3",
+        "image": "lower_p.png",
+        "imageUppercase": "upper_p.png"
+      },
+      {
+        "key": "q",
+        "sound": "q.mp3",
+        "image": "lower_q.png",
+        "imageUppercase": "upper_q.png"
+      },
+      {
+        "key": "r",
+        "sound": "r.mp3",
+        "image": "lower_r.png",
+        "imageUppercase": "upper_r.png"
+      },
+      {
+        "key": "s",
+        "sound": "s.mp3",
+        "image": "lower_s.png",
+        "imageUppercase": "upper_s.png"
+      },
+      {
+        "key": "t",
+        "sound": "t.mp3",
+        "image": "lower_t.png",
+        "imageUppercase": "upper_t.png"
+      },
+      {
+        "key": "u",
+        "sound": "u.mp3",
+        "image": "lower_u.png",
+        "imageUppercase": "upper_u.png"
+      },
+      {
+        "key": "v",
+        "sound": "v.mp3",
+        "image": "lower_v.png",
+        "imageUppercase": "upper_v.png"
+      },
+      {
+        "key": "w",
+        "sound": "w.mp3",
+        "image": "lower_w.png",
+        "imageUppercase": "upper_w.png"
+      },
+      {
+        "key": "x",
+        "sound": "x.mp3",
+        "image": "lower_x.png",
+        "imageUppercase": "upper_x.png"
+      },
+      {
+        "key": "y",
+        "sound": "y.mp3",
+        "image": "lower_y.png",
+        "imageUppercase": "upper_y.png"
+      },
+      {
+        "key": "z",
+        "sound": "z.mp3",
+        "image": "lower_z.png",
+        "imageUppercase": "upper_z.png"
+      }
+    ]
+  }

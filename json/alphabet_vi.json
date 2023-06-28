@@ -1,0 +1,352 @@
+{
+    "data": [
+      {
+        "key": "a",
+        "sound": "a.mp3",
+        "image": "a3a.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3a2.png",
+            "sound": "a2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "ă",
+        "sound": "aw.mp3",
+        "image": "a3aw.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3aw2.png",
+            "sound": "aw2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "â",
+        "sound": "aa.mp3",
+        "image": "a3aa.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3aa2.png",
+            "sound": "aa2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "b",
+        "sound": "b.mp3",
+        "image": "a3b.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3b2.png",
+            "sound": "b2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "c",
+        "sound": "c.mp3",
+        "image": "a3c.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3c2.png",
+            "sound": "c2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "d",
+        "sound": "d.mp3",
+        "image": "a3d.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3d2.png",
+            "sound": "d2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "đ",
+        "sound": "dd.mp3",
+        "image": "a3dd.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3dd2.png",
+            "sound": "dd2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "e",
+        "sound": "e.mp3",
+        "image": "a3e.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3e2.png",
+            "sound": "e2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "ê",
+        "sound": "ee.mp3",
+        "image": "a3ee.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3ee2.png",
+            "sound": "ee2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "g",
+        "sound": "g.mp3",
+        "image": "a3g.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3g2.png",
+            "sound": "g2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "h",
+        "sound": "h.mp3",
+        "image": "a3h.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3h2.png",
+            "sound": "h2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "i",
+        "sound": "i.mp3",
+        "image": "a3i.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3i2.png",
+            "sound": "i2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "k",
+        "sound": "k.mp3",
+        "image": "a3k.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3k2.png",
+            "sound": "k2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "l",
+        "sound": "l.mp3",
+        "image": "a3l.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3l2.png",
+            "sound": "l2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "m",
+        "sound": "m.mp3",
+        "image": "a3m.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3m2.png",
+            "sound": "m2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "n",
+        "sound": "n.mp3",
+        "image": "a3n.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3n2.png",
+            "sound": "n2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "o",
+        "sound": "o.mp3",
+        "image": "a3o.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3o2.png",
+            "sound": "o2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "ô",
+        "sound": "oo.mp3",
+        "image": "a3oo.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3oo2.png",
+            "sound": "oo2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "ơ",
+        "sound": "ow.mp3",
+        "image": "a3ow.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3ow2.png",
+            "sound": "ow2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "p",
+        "sound": "p.mp3",
+        "image": "a3p.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3p2.png",
+            "sound": "p2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "q",
+        "sound": "q.mp3",
+        "image": "a3q.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3q2.png",
+            "sound": "q2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "r",
+        "sound": "r.mp3",
+        "image": "a3r.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3r2.png",
+            "sound": "r2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "s",
+        "sound": "s.mp3",
+        "image": "a3s.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3s2.png",
+            "sound": "s2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "t",
+        "sound": "t.mp3",
+        "image": "a3t.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3t2.png",
+            "sound": "t2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "u",
+        "sound": "u.mp3",
+        "image": "a3u.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3u2.png",
+            "sound": "u2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "ư",
+        "sound": "uw.mp3",
+        "image": "a3uw.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3uw2.png",
+            "sound": "uw2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "v",
+        "sound": "v.mp3",
+        "image": "a3v.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3v2.png",
+            "sound": "v2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "x",
+        "sound": "x.mp3",
+        "image": "a3x.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3x2.png",
+            "sound": "x2.mp3"
+          }
+        ]
+      },
+      {
+        "key": "y",
+        "sound": "y.mp3",
+        "image": "a3y.png",
+        "imageUppercase": "",
+        "example": [
+          {
+            "image": "a3y2.png",
+            "sound": "y2.mp3"
+          }
+        ]
+      }
+    ]
+  }
